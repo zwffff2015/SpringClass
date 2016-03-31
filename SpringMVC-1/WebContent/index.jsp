@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<a href="springmvc/testRedirect">Test Redirect</a>
+	<br /><br />
+
+	<a href="springmvc/testView">Test View</a>
+	<br /><br />
+	
 	<a href="springmvc/testViewAndViewResolver">Test ViewAndViewResolver</a>
 	<br /><br />
 	
